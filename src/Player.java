@@ -16,6 +16,8 @@ public class Player {
     }
     
     public void set(){
+
+        //from 39:11
         x += xspeed;
         y += yspeed;
         hitBox.x = x;
